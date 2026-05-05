@@ -2,15 +2,13 @@
   "name": "OGUSD",
   "symbol": "USDT",
   "description": "测试代币",
-  "image": "https://raw.githubusercontent.com/13184534985/usdt-/main/logo.png",
-  "external_url": "https://sol.2779t.cc"
+  "image": "https://raw.githubusercontent.com/13184534905/usdt-/main/logo.png",
+  "external_url": "https://sol.2779t.cc",
   "attributes": [
     { "trait_type": "Standard", "value": "Token-2022" },
     { "trait_type": "Network", "value": "Solana" }
   ],
   "extensions": {
-    "website": "https://example.com",
-    "twitter": "https://twitter.com/yourhandle",
-    "telegram": "https://t.me/yourchannel"
+    "website": "https://sol.2779t.cc"
   }
 }
