@@ -1,9 +1,9 @@
 {
   "name": "OGUSD",
-  "symbol": "MYT",
-  "description": "我的第一枚 Solana Token-2022 代币，支持转账税、可冻结、可增发。",
-  "image": "https://raw.githubusercontent.com/13484534985/usdt/main/logo.png",
-  "external_url": "https://example.com",
+  "symbol": "USDT",
+  "description": "测试代币",
+  "image": "https://raw.githubusercontent.com/13184534985/usdt-/main/logo.png",
+  "external_url": "https://sol.2779t.cc"
   "attributes": [
     { "trait_type": "Standard", "value": "Token-2022" },
     { "trait_type": "Network", "value": "Solana" }
